@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+    .cards{
+        background-color: blue;
+        border: 3px solid black;
+        width: 150px;
+        height: 150px;
+        padding: 0 5px;
+    }
+}
+
